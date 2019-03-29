@@ -1,0 +1,68 @@
+.nav-primary  {
+    background-color: #bd2130!important;
+}
+.navbar-brand{
+    color:white;
+}
+.navbar-toggler-icon {
+    background-color: #504e4f;
+}
+
+.navbar-collapse li a {
+    color: black;
+    font-family: sans-serif;
+    font-style: oblique;
+}
+.navbar-toggler{
+    color:black;
+
+}
+.carousel-inner {
+    width: 100%;
+}
+.text-center{
+    font-size: 25px;
+    font-weight:bold;
+    padding: 1em;
+}
+.img-thumbnail{
+    background-color: rgb(236, 53, 83);
+  border-radius: 60%;
+  width: 30%;
+  height: 40%;
+  overflow: hidden;
+  position: relative; 
+}
+.about-img{
+    text-align: center;
+}
+.container {
+    font-family: Gotham SSm A', 'Gotham SSm B', Arial, sans-serif;
+}
+.btn-primary{
+background-color:#bd2130;
+
+}
+.btn-primary:hover{
+    background-color:#504e4f;
+
+}
+.about-texto{
+    padding: 1em;
+}
+.card{
+    width: 20rem;
+    margin: 1rem 1.8rem;
+    text-align: center;
+    border: 2px solid black;
+}
+/* curriculo */
+body{
+    background-color: beige;
+    
+
+}
+.pskill mt-5{
+    background-color: blue;
+}
+
